@@ -1,0 +1,47 @@
+Washington, George
+Adams, John
+Jefferson, Thomas
+Madison, James
+Monroe, James
+Adams, John Quincy  
+Jackson, Andrew
+Van Buren, Martin
+Harrison, William Henry
+Tyler, John
+Polk, James K
+Taylor, Zachary
+Fillmore, Millard 
+Pierce, Franklin
+Buchanan, James
+Lincoln, Abraham
+Johnson, Andrew
+Grant, Ulysses S.
+Hayes, Rutherford B.
+Garfield, James A.
+Arthur, Chester A.
+Cleveland, Grover
+Harrison, Benjamin
+Cleveland, Grover
+McKinley, William
+Roosevelt, Theodore
+Taft, William H.
+Wilson, Woodrow  
+Harding, Warren G.
+Coolidge, Calvin
+Hoover, Herbert
+Roosevelt, Franklin D.
+Truman, Harry S.
+Eisenhower, Dwight D.
+Kennedy, John F.
+Johnson, Lyndon B.
+Nixon, Richard M.
+Ford, Gerald R.
+Carter, James Earl  
+Reagan, Ronald
+Bush, George H. W.
+Clinton, William J.
+Bush, George W.
+Obama, Barack
+Trump, Donald
+Biden, Joseph 
+Trump, Donald

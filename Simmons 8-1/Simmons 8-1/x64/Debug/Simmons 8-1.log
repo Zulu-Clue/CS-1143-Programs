@@ -1,0 +1,3 @@
+﻿  Simmons 8-1.cpp
+D:\School\programming\Programs\Simmons 8-1\Simmons 8-1\Simmons 8-1.cpp(24,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Simmons 8-1.vcxproj -> D:\School\programming\Programs\Simmons 8-1\x64\Debug\Simmons 8-1.exe
